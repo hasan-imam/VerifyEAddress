@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Context:
 ----
 You have some email addresses and you would like to know if they are real or fake.
@@ -45,9 +44,3 @@ Troubleshoot:
 Usage notice:
 ----
 This is for education purposes only (hence this documentation, javadocs and the logging). Please do not abuse it in any way. 
-=======
-VerifyEAddress
-==============
-
-Check if email addresses are valid or fake (non-existent)
->>>>>>> 09ff194807ac976cbbff6dc999ce6ddc3eb5cd8d
